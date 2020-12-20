@@ -12,7 +12,7 @@ How to remote control the z-axis only at constant speed.
 
 # About the Code: 
 
-First we are creting sockets for Server Communications. 
+First we are creating sockets for Server Communications. 
 Then, we are trying to connect to Server.
 User have to enter the values to increase. The program sends the signal to the Server and Server sends commands to increase the speed. 
 Then we stop  the speed and then enter the values to the decrease. The program again sends the signal to the server and Server sends commands to decrease the speed. 
